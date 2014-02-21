@@ -7,8 +7,7 @@ Building and Installing:
 -----------------------
 At the moment, you will have to build the extension yourself. I'm planing on making it available over my website or possibly over the Chrome Web Store.
 
-Installation Process:
-----------------
+###Installation Process:
 1. Download the `wiki-popover` source folder
 2. Go to [chrome://extensions/](chrome://extensions/) in Google Chrome
 2. Enable **Developer mode** on the upper right-hand side
