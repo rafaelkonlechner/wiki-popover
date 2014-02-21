@@ -2,8 +2,8 @@
   "manifest_version": 2,
 
   "name": "Wikipedia Popover",
-  "description": "Instead of following links to further articles in Wikipedia, now you can just hover over the link and a popover will display a short description of the term.",
-  "version": "0.1",
+  "description": "Instead of following links to further articles in Wikipedia, just hover over the link and a popover will display a short description of the term.",
+  "version": "0.2",
 
   "content_scripts": [
     {
@@ -14,7 +14,7 @@
   ],
 
   "background": {
-    "scripts": ["eventPage.js"],
+    "scripts": ["eventpage.js"],
     "persistent": false
   },
 

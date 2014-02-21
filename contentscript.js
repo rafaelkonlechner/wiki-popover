@@ -72,6 +72,6 @@ function lookup_wiki(link) {
  * @param {string} content - info, that will be displayed in the popover
  */
 function show_popover(link, content) {
-	$(link).attr('data-content', content.substr(0,120) + '...');
+	$(link).attr('data-content', content.substr(0,150) + '...');
 	$(link).popover('toggle');
 }
